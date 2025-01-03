@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on ... Learn to Cloud
+## 🌱 I’m currently learning AWS Cloud
+## 👯 I’m looking to collaborate on Cloud Projects
+
+
+
 <!--
 **shannilmohaan/shannilmohaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
