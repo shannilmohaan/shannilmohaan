@@ -1,8 +1,4 @@
-## Hi there 👋
 
-## 🔭 I’m currently working on ... Learn to Cloud
-## 🌱 I’m currently learning AWS Cloud
-## 👯 I’m looking to collaborate on Cloud Projects
 
 
 
